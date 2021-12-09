@@ -1,7 +1,4 @@
-# RoBotlarimTg - MusicUserBot
-# Burdan hər hansı modulu kodu faylı reponu
-# Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+
 
 import asyncio
 from pyrogram import Client, filters
@@ -25,7 +22,7 @@ WHITE_COMMAND = Li.WHITE_COMMAND
                    ) 
 async def show_help(_, ryui: Message):
     if ded.msg.get('cmd') is not None:
-        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True)
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @iron_Blood_Gurup", True)
         await pwn.edit_text("♻️ Serverlə əlaqə qurulur...")
         await pwn.edit_text("♻️ Yüklənir [░░░░░░              ]")
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░        ]")
@@ -51,7 +48,7 @@ async def delete_command_blue(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-                    aykhan_s 
+                     A_l_i_y_e_v_d_i
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """   
