@@ -9,7 +9,7 @@ DYNO_COMMANDK = Li.DYNO_COMMAND
 WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
-FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
+FULL_PLAYING_HELP =f"""👨🏻‍💻 **iron_Blood_Gurup NexusUserBot**\nMesajlar avtomatik silinir\n
 📣**Əsas Əmrlər**\nBu əmrlər **.** ilə işlədilir
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
@@ -27,10 +27,10 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 - {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
 - {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
 - {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
-👉Yeniləmələr üçün kanala abunə olun
-@RoBotlarimTg
+👉Söhbət Gurupmuza Sizidə Dəvət Edirik
+@iron_Blood_Gurup
 👨🏻‍💻**Sahib**
-@aykhan_s
+@A_l_i_y_e_v_d_i
 """
 
 
