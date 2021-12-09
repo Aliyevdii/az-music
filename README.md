@@ -1,6 +1,4 @@
-# 🔊 MusicUserBot
-## <a href="https://t.me/RoBotlarimTg">👨🏻‍💻 RoBotlarimTg</a>
-<img src="https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg" align="centre"/>
+# 🔊 NexusUserBot
 
 
 
@@ -26,7 +24,7 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 11) Artıq hər şey tamamdır Deploy buttonuna vuraraq MusicUserBotu heroku hesabınıza deploy edin )
 12) Deploy prosesi bitdikdən sonra dynonu açmağı unutmayın
 12) Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
--👉 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git)
+-👉 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aliyevdii/az-music)
 
 
 ## 👇 Əmrlər
@@ -53,8 +51,8 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 - !raw : Temp faylları təmizlə. 
 - !ryuk : Serverdəki ping i yoxla.
 ```
-#### Yeniləmələri görmək üçün <a href="https://t.me/RoBotlarimTg">kanala</a> abunə olaq
-👨🏻‍💻 Sahib <a href="https://t.me/RoBotlarimTg">aykhan_s</a>
+####
+👨🏻‍💻 Sahib <a href="https://t.me/iron_Blood_Gurup">A_l_i_y_e_v_d_i</a>
 
-⚠️ Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
+⚠️ Çətinliy olarsa <a href="https://t.me/iron_Blood_Gurup">support</a> qrupuna yazın
 
