@@ -26,7 +26,7 @@ DYNO_COMMAND = Li.DYNO_COMMAND
 async def list_voice_chat(client, ryui: Message):
     voice_chatting = ded.voice_chatting
     if voice_chatting.is_connected:
-        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @iron_Blood_Gurup", True) 
         await pwn.edit_text("Serverlə əlaqə yaradılır...") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -36,7 +36,7 @@ async def list_voice_chat(client, ryui: Message):
         chat = await client.get_chat(chat_id)
         hawk = await ryui.reply_photo(
             "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",   
-            caption=f"👨🏻‍💻 @RoBotlarimTg\n\nMən olduğum qruplar: \n**{chat.title}**"
+            caption=f"👨🏻‍💻 @iron_Blood_Gurup\n\nMən olduğum qruplar: \n**{chat.title}**"
             )   
     else:
         hawk = await ryui.reply_text("Hazırda heçbir qrupda oxumuram")
@@ -53,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s | aykhan026
+               A_l_i_y_e_v_d_i | A_l_i_y_e_v_d_i
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
