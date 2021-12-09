@@ -40,7 +40,7 @@ async def clean_raw_pcm(client, ryui: Message):
                 files += 1
                 os.remove(os.path.join(raw_hug, fn))             
     hawk = await ryui.reply_text(
-        f"**RoBotlarimTg**\n Silinən temp faylları: **{files}**"
+        f"**kron_Blood_Gurup**\n Silinən temp faylları: **{files}**"
                     )
     await ryui.delete()
     await wait_before_rm((hawk, ryui), Kill_Time)
@@ -56,7 +56,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+               A_l_i_y_e_v_d_i
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
