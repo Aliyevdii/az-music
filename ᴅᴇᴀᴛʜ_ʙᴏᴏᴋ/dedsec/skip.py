@@ -46,7 +46,7 @@ async def skip_track(_, ryui: Message):
             hawk = await ryui.reply_text("\n".join(text))
             await ded.send_playlist()
         except (ValueError, TypeError):
-            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @iron_Blood_Gurup", True) 
             await pwn.edit_text("Serverlə əlaqə yaradılır...") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
